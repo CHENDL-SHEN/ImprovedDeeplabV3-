@@ -1,2 +1,2 @@
 # Data set
-Please refer to 123 for data set preprocessing  https://github.com/WangLibo1995/GeoSeg
+Please refer to  https://github.com/WangLibo1995/GeoSeg for data set preprocessing.
