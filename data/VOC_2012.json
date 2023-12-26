@@ -1,0 +1,95 @@
+{
+	"train": {
+		"aeroplane": 837,
+		"person": 9734,
+		"tvmonitor": 790,
+		"dog": 1418,
+		"chair": 2794,
+		"bird": 1128,
+		"bottle": 1396,
+		"boat": 940,
+		"diningtable": 715,
+		"train": 609,
+		"motorbike": 689,
+		"horse": 696,
+		"cow": 633,
+		"bicycle": 712,
+		"car": 2235,
+		"cat": 1141,
+		"sofa": 732,
+		"bus": 569,
+		"pottedplant": 1024,
+		"sheep": 931
+	},
+	"validation": {
+		"aeroplane": 112,
+		"train": 93,
+		"boat": 108,
+		"bicycle": 103,
+		"person": 866,
+		"sheep": 153,
+		"tvmonitor": 98,
+		"horse": 104,
+		"bottle": 163,
+		"sofa": 106,
+		"chair": 245,
+		"cow": 132,
+		"car": 249,
+		"pottedplant": 171,
+		"bus": 116,
+		"diningtable": 82,
+		"dog": 150,
+		"bird": 140,
+		"cat": 132,
+		"motorbike": 103
+	},
+	"classes": 6,
+	"class_names": [
+		"ImSurf",
+		"Building",
+		"LowVeg",
+		"Tree",
+		"Car",
+		"Clutter"
+	],
+	"class_dic": {
+		"ImSurf": 0,
+		"Building": 1,
+		"LowVeg": 2,
+		"Tree": 3,
+		"Car": 4,
+		"Clutter": 5
+	},
+	"color_dict": {
+		"ImSurf": [
+			255,
+			255,
+			255
+		],
+		"Building": [
+			0,
+			0,
+			255
+		],
+		"LowVeg": [
+			0,
+			255,
+			255
+		],
+		"Tree": [
+			0,
+			255,
+			0
+		],
+		"Car": [
+			255,
+			204,
+			0
+		],
+		"Clutter": [
+			255,
+			0,
+			0
+		]
+	}
+}
